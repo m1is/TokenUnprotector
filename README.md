@@ -3,7 +3,7 @@ For decryption and deserialization of OWIN OAuth access tokens for use in .NET C
 
 Most of the code is from the Katana project: https://github.com/c4net/katanaproject
 
-The machine MachineKey class is from here: https://github.com/dmarlow/BearerTokenBridge 
+The MachineKey class is from here: https://github.com/dmarlow/BearerTokenBridge 
 
 For more information see this post: https://stackoverflow.com/questions/46546254/using-machine-keys-for-idataprotector-asp-net-core
 
